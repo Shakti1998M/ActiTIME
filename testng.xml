@@ -9,6 +9,7 @@
   <parameter name="browser" value="CHROME"></parameter>
     <classes>
       <class name="testcases.TC_Login"/>
+      <class name="testcases.TC_Demo"/>
     </classes>
   </test> 
   
@@ -16,6 +17,7 @@
   <parameter name="browser" value="EDGE"></parameter>
     <classes>
       <class name="testcases.TC_Login"/>
+      <class name="testcases.TC_Demo"/>
     </classes>
   </test>
   
@@ -23,6 +25,7 @@
   <parameter name="browser" value="FIREFOX"></parameter>
     <classes>
       <class name="testcases.TC_Login"/>
+      <class name="testcases.TC_Demo"/>
     </classes>
   </test>
   
